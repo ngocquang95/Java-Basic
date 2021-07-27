@@ -1,6 +1,16 @@
-*.xml
+##############################
+## IntelliJ
+##############################
+out/
+.idea/
+.idea_modules/
 *.iml
-.gitignore
+*.ipr
+*.iws
+##############################
+## IntelliJ
+##############################
+
 # Compiled class file
 *.class
 
